@@ -4,7 +4,7 @@
     "url": "https://accubits.com",
     "icon": "https://icons.duckduckgo.com/ip3/accubits.com.ico",
     "slug": "accubits-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2149,
     "timeYear": 1940,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-04-25": 18
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.accubits.com.ico",
     "slug": "blog-accubits-com",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.48%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 1390,
     "timeDay": 1031,
     "timeWeek": 1224,
