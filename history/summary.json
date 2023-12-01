@@ -30,7 +30,7 @@
     "url": "https://blog.accubits.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.accubits.com.ico",
     "slug": "blog-accubits-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -42,6 +42,7 @@
     "timeMonth": 1522,
     "timeYear": 1442,
     "dailyMinutesDown": {
+      "2023-12-01": 0,
       "2023-11-05": 35,
       "2023-11-04": 28,
       "2023-10-29": 66,
